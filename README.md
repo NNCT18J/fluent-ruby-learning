@@ -23,9 +23,9 @@
 
 |週|日付|問題番号|内容|
 |-|----|-------|---|
-5 |8/10 ~ 8/13| - | AtCoder A問題(問題は未定)
-6 |8/16 ~ 8/20| - | AtCoder A問題(問題は未定)
-7 |8/23 ~ 8/27| - | AtCoder A問題(問題は未定)
+5 |8/10 ~ 8/13| - | [AtCoder ABC130 A - Rounding](https://atcoder.jp/contests/abc130/tasks/abc130_a)
+6 |8/16 ~ 8/20| - | [AtCoder ABC161 A - ABC Swap](https://atcoder.jp/contests/abc161/tasks/abc161_a)
+7 |8/23 ~ 8/27| - | [AtCoder ABC160 A - Coffee](https://atcoder.jp/contests/abc160/tasks/abc160_a)
 8 |8/30 ~ 9/3|  - | AtCoder A問題(問題は未定)
 9 |9/6 ~ 9/10|  - | AtCoder A問題(問題は未定)
 
